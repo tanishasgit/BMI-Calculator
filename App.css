@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #FBEAEB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+main {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #2F3C7E;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+.slider-output {
+  margin: 10px 0;
+  color: #2F3C7E;
+}
+
+.input-slider {
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 8px;
+  background: #2F3C7E;
+  outline: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.input-slider:hover {
+  opacity: 1;
+}
+
+.output-section {
+  font-size: 18px;
+  color: #2F3C7E;
+}
+
+.output {
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 10px;
+  color: #2F3C7E;
+}
+
+.bmi-category {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.underweight {
+  color: #FFB74D; /* Orange */
+}
+
+.normal-weight {
+  color: #66BB6A; /* Green */
+}
+
+.overweight {
+  color: #FFA726; /* Light Orange */
+}
+
+.obese {
+  color: #EF5350; /* Red */
+}
