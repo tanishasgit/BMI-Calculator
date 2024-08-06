@@ -23,14 +23,10 @@ A simple and intuitive BMI (Body Mass Index) Calculator built with React. This a
 ## Screenshot
 
 Below is a screenshot of the BMI Calculator in action:
-(<img width="1440" alt="Screenshot 2024-08-06 at 10 49 16 AM" src="https://github.com/user-attachments/assets/950e5d3b-abf0-4313-b05a-0b64217916c0">
-)
+<img width="1440" alt="Screenshot 2024-08-06 at 10 49 16 AM" src="https://github.com/user-attachments/assets/950e5d3b-abf0-4313-b05a-0b64217916c0">
 *The screenshot demonstrates the user interface, including the adjustable sliders and the dynamic BMI category display.*
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any inquiries, please reach out via [email](mailto:tanisha.biswal@gmail.com) or visit my [GitHub profile](https://github.com/tanishasgit) for more information.
